@@ -1,0 +1,5 @@
+{
+  "name": "Asir Explorer & Admin System",
+  "description": "A comprehensive tourism portal for the Asir region featuring a public-facing explorer and a backend admin dashboard. Includes simulated Google Maps integration, live weather updates, and Gemini AI content enhancement.",
+  "requestFramePermissions": []
+}
